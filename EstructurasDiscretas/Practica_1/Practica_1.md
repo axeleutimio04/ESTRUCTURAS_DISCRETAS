@@ -16,6 +16,8 @@
 
     Les podria decir que Git es la herramienta que nos ayuda a tener un control sobre las versiones de un proyecto, sin git no tendriamos un registro ordenado de los cambios que hacemos en un proyecto de manera local lo cual nos podria perjudicar en proyectos  grandes. Por otra parte, para poder distribuir/compartir dichos proyectos o simplemente realizar trabajos en equipo se utiliza Github, el cual nos permite tener un acceso en la nube con las ventajas que ello implica. Podria hacerles una analogia como que git es su galeria de fotos donde pudes verlas por fechas o destinos y que github es la red social donde compartes esas fotos para alguien mas las vea, comente, edite, descargue o comparta tambien las suyas.
     
+## Referencias
+    
     
     Simpson, J. (2019, March 21). Rust vs. Haskell: Which language is best for API design? Nordic APIs. https://nordicapis.com/rust-vs-haskell-which-language-is-best-for-api-design/
 
