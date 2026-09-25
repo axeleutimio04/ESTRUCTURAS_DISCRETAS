@@ -1,4 +1,4 @@
-##ACTIVIDAD 2
+## ACTIVIDAD 2
 
 
 1. ¿Cuáles son las principales diferencias entre Haskell y Rust?
