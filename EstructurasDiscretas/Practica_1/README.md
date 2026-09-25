@@ -1,4 +1,4 @@
-## Actividades
+## ACTIVIDAD 1
 
 
 1. [Objetivo de la práctica]
