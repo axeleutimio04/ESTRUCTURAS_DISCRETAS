@@ -8,3 +8,6 @@ data Matrioshka = Mit | Cont Matrioshka deriving (Eq, Show)
 --   a_entero Cero                 == 0
 --   a_entero (S Cero)             == 1
 --   a_entero (S (S (S Cero)))     == 3
+a_entero :: Natural -> Int
+    a_entero Cero = 0
+    a_entero (S n) = 1 + a_entero n
